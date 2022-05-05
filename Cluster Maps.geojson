@@ -508,7 +508,48 @@
         -4.479686,
 		 52.8541927
       ]
+		},
+	  
+	  {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "I really like the Menai Bridge"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.1789245,
+		 53.2175462
+        ]
+      },
+	   "bbox": [
+      -4.1789245,
+		 53.2175462,
+        -4.1789245,
+		 53.2175462
+      ]
 		},	  
+	  {
+      "type": "Feature",
+      "properties": {
+       
+        "Somewhere just above rheadr abergwyngregyn"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -3.9925003,
+		 53.20521
+        ]
+      },
+	   "bbox": [
+      -3.9925003,
+		 53.20521,
+        -3.9925003,
+		 53.20521
+      ]
+		},	  	
 	
 		{
       "type": "Feature",
