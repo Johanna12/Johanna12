@@ -369,6 +369,46 @@
 		 53.1165676
       ]
     },	  
+	   {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Conwy, in particular the bridge over the river"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -3.8228988,
+		 53.2811242
+        ]
+      },
+	   "bbox": [
+       -3.8228988,
+		 53.2811242,
+        -3.8228988,
+		 53.2811242
+      ]
+    },	  
+	   {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Tenby Castle"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.693737,
+		 51.6725751
+        ]
+      },
+	   "bbox": [
+       -4.693737,
+		 51.6725751,
+        -4.693737,
+		 51.6725751
+      ]
+    },	  
 	
 		{
       "type": "Feature",
