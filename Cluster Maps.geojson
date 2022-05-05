@@ -449,6 +449,46 @@
 		 52.9068444
       ]
     },	  
+	  {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Dinorwig quarry"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.1033935,
+		 53.1327659
+        ]
+      },
+	   "bbox": [
+       -4.1033935,
+		 53.1327659,
+        -4.1033935,
+		 53.1327659
+      ]
+	},	  
+	  	  	    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Nant Gwynant"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.022026,
+		 53.0488498
+        ]
+      },
+	   "bbox": [
+       -4.022026,
+		 53.0488498,
+        -4.022026,
+		 53.0488498
+      ]
+	},	  
 	
 		{
       "type": "Feature",
