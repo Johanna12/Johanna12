@@ -488,7 +488,27 @@
         -4.022026,
 		 53.0488498
       ]
-	},	  
+	},	
+	  {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Llanbedrog beach"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.479686,
+		 52.8541927
+        ]
+      },
+	   "bbox": [
+      -4.479686,
+		 52.8541927,
+        -4.479686,
+		 52.8541927
+      ]
+		},	  
 	
 		{
       "type": "Feature",
