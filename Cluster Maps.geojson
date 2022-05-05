@@ -286,6 +286,27 @@
 		 53.2339376
       ]
     },
+	  {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Cwm Nantcol"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.0652418,
+		 52.8212562
+        ]
+      },
+	  "bbox": [
+       -4.0652418,
+		 52.8212562,
+        -4.0652418,
+		 52.8212562
+      ]
+    },
 	
 	
 		{
