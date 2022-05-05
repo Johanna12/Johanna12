@@ -348,6 +348,26 @@
         -3.8324153,
 		 53.3304308
       ]
+    },	
+	  {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Llyn Idwal (Devils Kitchen)"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.0257596,
+		 53.1165676
+        ]
+      },
+	   "bbox": [
+       -4.0257596,
+		 53.1165676,
+        -4.0257596,
+		 53.1165676
+      ]
     },	  
 	
 	
