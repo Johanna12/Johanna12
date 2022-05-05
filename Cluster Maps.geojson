@@ -369,8 +369,186 @@
 		 53.1165676
       ]
     },	  
-	
-	
+	{
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Conwy, in particular the bridge over the river"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -3.8228988,
+		 53.2811242
+        ]
+      },
+	   "bbox": [
+       -3.8228988,
+		 53.2811242,
+        -3.8228988,
+		 53.2811242
+      ]
+    },	  
+	   {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Tenby Castle"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.693737,
+		 51.6725751
+        ]
+      },
+	   "bbox": [
+       -4.693737,
+		 51.6725751,
+        -4.693737,
+		 51.6725751
+      ]
+    },	  
+	  {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Llandudno pier"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -3.8204956,
+		 53.3230811
+        ]
+      },
+	   "bbox": [
+       -3.8204956,
+		 53.3230811,
+        -3.8204956,
+		 53.3230811
+      ]
+    },	  
+	    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Black Rocks Sands, Morfa Bychan"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.1730451,
+		 52.9068444
+        ]
+      },
+	   "bbox": [
+       -4.1730451,
+		 52.9068444,
+        -4.1730451,
+		 52.9068444
+      ]
+    },	  
+	  	    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Dinorwig quarry"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.1033935,
+		 53.1327659
+        ]
+      },
+	   "bbox": [
+       -4.1033935,
+		 53.1327659,
+        -4.1033935,
+		 53.1327659
+      ]
+	},	  
+	  	  	    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Nant Gwynant"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.022026,
+		 53.0488498
+        ]
+      },
+	   "bbox": [
+       -4.022026,
+		 53.0488498,
+        -4.022026,
+		 53.0488498
+      ]
+	},	  
+	  	  	  	    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Llanbedrog beach"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.479686,
+		 52.8541927
+        ]
+      },
+	   "bbox": [
+      -4.479686,
+		 52.8541927,
+        -4.479686,
+		 52.8541927
+      ]
+		},	  
+	    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "I really like the Menai Bridge"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.1789245,
+		 53.2175462
+        ]
+      },
+	   "bbox": [
+      -4.1789245,
+		 53.2175462,
+        -4.1789245,
+		 53.2175462
+      ]
+		},	  
+	  {
+      "type": "Feature",
+      "properties": {
+       
+        "Somewhere just above rheadr abergwyngregyn"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -3.9925003,
+		 53.20521
+        ]
+      },
+	   "bbox": [
+      -3.9925003,
+		 53.20521,
+        -3.9925003,
+		 53.20521
+      ]
+		},	  	
 		{
       "type": "Feature",
       "properties": {
