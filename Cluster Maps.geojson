@@ -307,6 +307,48 @@
 		 52.8212562
       ]
     },
+	  
+	 {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Penmon"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.0441703,
+		 53.3107753
+        ]
+      },
+	  "bbox": [
+       -4.0441703,
+		 53.3107753,
+        -4.0441703,
+		 53.3107753
+      ]
+    },
+	    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Happy Valley in Llandudno"       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -3.8324153,
+		 53.3304308
+        ]
+      },
+	  "bbox": [
+       -3.8324153,
+		 53.3304308,
+        -3.8324153,
+		 53.3304308
+      ]
+    },	  
 	
 	
 		{
